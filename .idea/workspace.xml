@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BlogController.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BlogController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="45" selection-start="2100" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8789">
+            <state line="67" column="45" selection-start="2100" selection-end="2134" vertical-scroll-proportion="0.55498284" vertical-offset="153" max-vertical-offset="8789">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlogPostDAO.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BlogPostDAO.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogPostDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="8" selection-start="2773" selection-end="2773" vertical-scroll-proportion="0.7371134" vertical-offset="1033" max-vertical-offset="1615">
+            <state line="92" column="0" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
               <folding />
             </state>
           </provider>
@@ -558,12 +558,12 @@
       <updated>1443676520484</updated>
       <workItem from="1443676525566" duration="10439000" />
       <workItem from="1444209988758" duration="714000" />
-      <workItem from="1444799415168" duration="6386000" />
+      <workItem from="1444799415168" duration="7591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17539000" />
+    <option name="totallyTimeSpent" value="18744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -685,6 +685,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogPostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/course/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="57" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
@@ -694,14 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="45" selection-start="2100" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8789">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogPostDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="8" selection-start="2773" selection-end="2773" vertical-scroll-proportion="0.7371134" vertical-offset="1033" max-vertical-offset="1615">
+        <state line="67" column="45" selection-start="2100" selection-end="2134" vertical-scroll-proportion="0.55498284" vertical-offset="153" max-vertical-offset="8789">
           <folding />
         </state>
       </provider>
