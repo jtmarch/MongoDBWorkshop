@@ -17,6 +17,13 @@
             <!--<version>3.0.0-rc0</version>-->
         <!--</dependency>-->
 
+        <!-- Workshop Assignment 4 - stap 1 -->
+        <!--<dependency>-->
+            <!--<groupId>org.mongodb.morphia</groupId>-->
+            <!--<artifactId>morphia</artifactId>-->
+            <!--<version>1.0.1</version>-->
+        <!--</dependency>-->
+
         <dependency>
           <groupId>com.sparkjava</groupId>
 	      <artifactId>spark-core</artifactId>
